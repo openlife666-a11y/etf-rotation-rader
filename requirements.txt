@@ -1,4 +1,0 @@
-streamlit>=1.40,<2
-akshare>=1.16
-pandas>=2.2
-numpy>=1.26
